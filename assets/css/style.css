@@ -1360,9 +1360,4 @@
     .about-banner { max-width: 450px; }
   
   }
- @media (min-width : 375px) {
-    picture .w-100{
-     margin-left: 5vh;
-     }    
-   }
-  
+
